@@ -81,7 +81,7 @@ public class DynamicWebtable {
 	 @Test
 	 public void tableDatas() {
 		 
-	//	 System.out.println("We get the table data");
+		 System.out.println("We get the table data");
 	 }
 }
 
